@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.0";"";
+"SUPPLIER";"Omron";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"7127751";"";
+"REVISION";"A";"";
+"DESIGN";"Toggle switch,r/angle,SPDT,on-on,std";"";
+"TraceParts.InstanceId";"10-15082011-0896371RT7ZZF6DV0JYRXR1PEXE5IZ7";"";
+"TraceParts.PartTitle";"Toggle switch,r/angle,SPDT,on-on,std";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.PartNumber";"10-15082011-089637";"";
+"REFERENCE";"A9T11-0012";"";
+"TIMESTAMP";"29/7/2011 16:03:01";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"/F_RS_COMPONENTS/PSSS_428047/PSS_428070/PSF_428232/";"";
