@@ -1164,7 +1164,7 @@ void showdate()
 { 
   s = 0;
   String str = rtc.getDateStr(FORMAT_LONG, FORMAT_LITTLEENDIAN, '/');
-  while(c<5000)
+  while(c<10000)
   {
    delay(100);
    if(s == 4 and c > 100)
@@ -1197,7 +1197,7 @@ void showtemp()
   attachInterrupt(0, blink0, RISING);
   attachInterrupt(1, blink1, RISING);
   attachInterrupt(5, blink3, RISING);
-  while(c<5000)
+  while(c<10000)
   {
     delay(100);
     wdt_reset();
